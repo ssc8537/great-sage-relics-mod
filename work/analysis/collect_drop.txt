@@ -1,0 +1,205 @@
+######## Runtime/DestructionDropDesc.data records=18 bytes=302
+  ----
+     f1   w0 1
+     f2   w0 10101
+     f5   w0 2000
+  ----
+     f1   w0 2
+     f2   w0 9901
+     f4   w0 1
+     f5   w0 2000
+  ----
+     f1   w0 3
+     f2   w0 9902
+     f3   w0 1
+     f4   w0 1
+     f5   w0 2000
+  ----
+     f1   w0 1001
+     f2   w0 91000
+     f5   w0 18446744073709551615
+  ----
+     f1   w0 1021
+     f2   w0 91000
+     f5   w0 18446744073709551615
+  ----
+     f1   w0 1031
+     f2   w0 91000
+     f5   w0 18446744073709551615
+  ----
+     f1   w0 1032
+     f2   w0 91000
+     f5   w0 18446744073709551615
+  ----
+     f1   w0 1041
+     f2   w0 91000
+     f5   w0 18446744073709551615
+######## Runtime/CollectionDropDesc.data records=89 bytes=9810
+  ----
+     f1   w0 101
+     f2   w0 1
+     f3   w0 2101
+     f4   w0 1002
+     f5   w2 "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'"
+     f6   w0 2035
+  ----
+     f1   w0 102
+     f2   w0 1
+     f3   w0 2101
+     f4   w0 1003
+     f5   w2 "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'"
+     f6   w0 2035
+  ----
+     f1   w0 103
+     f2   w0 1
+     f3   w0 2101
+     f4   w0 1004
+     f5   w2 "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'"
+     f6   w0 2035
+  ----
+     f1   w0 104
+     f2   w0 1
+     f3   w0 2103
+     f4   w0 1002
+     f5   w2 "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'"
+     f6   w0 2035
+  ----
+     f1   w0 105
+     f2   w0 1
+     f3   w0 2103
+     f4   w0 1003
+     f5   w2 "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'"
+     f6   w0 2035
+  ----
+     f1   w0 106
+     f2   w0 1
+     f3   w0 2103
+     f4   w0 1004
+     f5   w2 "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Finish.DBC_YaoCai_Finish'"
+     f6   w0 2035
+  ----
+     f1   w0 107
+     f2   w0 1
+     f3   w0 2102
+     f4   w0 1002
+     f5   w2 "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'"
+     f6   w0 2035
+  ----
+     f1   w0 108
+     f2   w0 1
+     f3   w0 2102
+     f4   w0 1003
+     f5   w2 "BGWDataAsset_B1DBC'/Game/00MainHZ/Item/YaoCai/DBC/DBC_YaoCai_Linzi_Finish.DBC_YaoCai_Linzi_Finish'"
+     f6   w0 2035
+######## NoneRuntime/FUStCollectionSpawnGroupDesc.data records=66 bytes=3601
+  ----
+     f1   w0 100101
+     f2   w2 'HFS01_PersistentLevel'
+     f3   w2 '普通人参'
+     f4   w0 10
+     f5   w0 10
+     f11  w0 1800
+  ----
+     f1   w0 100102
+     f2   w2 'HFS01_PersistentLevel'
+     f3   w2 '普通人参—采集小怪'
+     f4   w0 1
+     f5   w0 1
+     f8   w0 1
+     f11  w0 7200
+  ----
+     f1   w0 100201
+     f2   w2 'HFS01_PersistentLevel'
+     f3   w2 '普通灵芝'
+     f4   w0 11
+     f5   w0 11
+     f11  w0 1800
+  ----
+     f1   w0 100301
+     f2   w2 'HFS01_PersistentLevel'
+     f3   w2 '普通龙胆草'
+     f4   w0 10
+     f5   w0 10
+     f11  w0 1800
+  ----
+     f1   w0 100401
+     f2   w2 'HFS01_PersistentLevel'
+     f3   w2 '普通蘑菇'
+     f4   w0 9
+     f5   w0 9
+     f11  w0 1800
+  ----
+     f1   w0 100402
+     f2   w2 'HFS01_PersistentLevel'
+     f3   w2 '普通蘑菇—采集小怪'
+     f4   w0 1
+     f5   w0 1
+     f8   w0 1
+     f11  w0 7200
+  ----
+     f1   w0 100501
+     f2   w2 'HFS01_PersistentLevel'
+     f3   w2 '普通碧藕'
+     f4   w0 13
+     f5   w0 13
+     f11  w0 1800
+  ----
+     f1   w0 100601
+     f2   w2 'HFS01_PersistentLevel'
+     f3   w2 '仙藤'
+     f4   w0 1
+     f5   w0 1
+     f11  w0 1800
+     f12  w0 1
+######## NoneRuntime/FUStUnitDeadDesc.data records=354 bytes=80504
+  ----
+     f1   w0 1001
+     f2   w0 10
+     f3   w5 1080033280
+     f4   w5 3212836864
+     f11  w2 "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Wukong/UDDConfig_Wukong_dep01.UDDConfig_Wukong_dep01'"
+     f13  w2 '/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium'
+     f14  w2 'Guard'
+  ----
+     f1   w0 1201
+     f2   w0 12
+     f3   w5 1082130432
+     f4   w5 3212836864
+     f14  w2 'Guard'
+  ----
+     f1   w0 1301
+     f2   w0 13
+     f3   w5 1082130432
+     f4   w5 3212836864
+     f14  w2 'Guard'
+  ----
+     f1   w0 1401
+     f2   w0 14
+     f3   w5 1082130432
+     f4   w5 3212836864
+     f14  w2 'Guard'
+  ----
+     f1   w0 1501
+     f2   w0 15
+     f3   w5 1082130432
+     f4   w5 3212836864
+     f14  w2 'Guard'
+  ----
+     f1   w0 1601
+     f2   w0 16
+     f3   w5 1082130432
+     f4   w5 3212836864
+     f14  w2 'Guard'
+  ----
+     f1   w0 1701
+     f2   w0 17
+     f3   w5 1082130432
+     f4   w5 3212836864
+     f14  w2 'Guard'
+  ----
+     f1   w0 1702
+     f2   w0 17
+     f3   w5 1077936128
+     f4   w5 3212836864
+     f11  w2 "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Transform/Player_lys_hou/UDDC_player_lys_hou_dep02.UDDC_player_lys_hou_dep02'"
+     f14  w2 'Guard'

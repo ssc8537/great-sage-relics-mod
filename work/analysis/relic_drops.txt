@@ -1,0 +1,154 @@
+---- rec key=1030 len=20
+    f1   varint 1030
+    f4   str ''
+    f10  varint 10000
+    f13  msg
+      f1   varint 4096
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+---- rec key=9901 len=42
+    f1   varint 9901
+    f4   str ''
+    f5   varint 1
+    f6   varint 990
+    f7   varint 1641
+    f8   msg
+      f1   varint 3902
+      f2   varint 1
+    f10  varint 10000
+    f13  msg
+      f1   varint 4091
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f14  varint 1
+    f15  varint 1
+    f16  varint 8
+---- rec key=9902 len=42
+    f1   varint 9902
+    f4   str ''
+    f5   varint 1
+    f6   varint 1944
+    f7   varint 2583
+    f8   msg
+      f1   varint 3904
+      f2   varint 1
+    f10  varint 10000
+    f13  msg
+      f1   varint 4092
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f14  varint 1
+    f15  varint 2
+    f16  varint 8
+---- rec key=9903 len=42
+    f1   varint 9903
+    f4   str ''
+    f5   varint 1
+    f6   varint 2267
+    f7   varint 4330
+    f8   msg
+      f1   varint 3923
+      f2   varint 1
+    f10  varint 10000
+    f13  msg
+      f1   varint 4093
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f14  varint 1
+    f15  varint 3
+    f16  varint 8
+---- rec key=9904 len=42
+    f1   varint 9904
+    f4   str ''
+    f5   varint 1
+    f6   varint 3693
+    f7   varint 5329
+    f8   msg
+      f1   varint 3907
+      f2   varint 1
+    f10  varint 10000
+    f13  msg
+      f1   varint 4094
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f14  varint 1
+    f15  varint 4
+    f16  varint 8
+---- rec key=9905 len=46
+    f1   varint 9905
+    f4   str ''
+    f5   varint 1
+    f6   varint 4466
+    f7   varint 6065
+    f10  varint 10000
+    f13  msg
+      f1   varint 4095
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f13  msg
+      f1   varint 19005
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f15  varint 5
+    f16  varint 8
+---- rec key=9906 len=45
+    f1   varint 9906
+    f4   str ''
+    f5   varint 1
+    f6   varint 5153
+    f7   varint 6998
+    f10  varint 10000
+    f13  msg
+      f1   varint 4096
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f13  msg
+      f1   varint 5302
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f15  varint 6
+    f16  varint 8
+---- rec key=9999 len=17
+    f1   varint 9999
+    f4   str ''
+    f5   varint 1
+    f8   msg
+      f1   varint 4091
+      f2   varint 1
+    f10  varint 10000
+---- rec key=9000 len=41
+    f1   varint 9000
+    f4   str ''
+    f8   msg
+      f1   varint 4097
+      f2   varint 1
+    f10  varint 10000
+    f13  msg
+      f1   varint 15101
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f13  msg
+      f1   varint 5024
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f14  varint 3
+---- rec key=10105 len=20
+    f1   varint 10105
+    f4   str ''
+    f10  varint 10000
+    f13  msg
+      f1   varint 4096
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000

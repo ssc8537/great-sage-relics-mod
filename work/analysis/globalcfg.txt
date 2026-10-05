@@ -1,0 +1,60 @@
+######## NoneRuntime/FUStGlobalConfigDesc-Float.data
+  GridSize | 2500
+  HugeRadius
+  BigRadius
+  MediumRadius
+  CanDefeatTTTBAdditive
+  ObjectPoolMaxCount
+  TransitionLocomotionMaxDistance
+  %GlobalBuffDispMaxTriggerCountPerFrame
+  BuffDispMaxTriggerCountPerFrame
+  G4RotateSpeed
+  *AlchemyNpcCommunicationAwardIntervalSecond | 1800
+  $YinYangDmgMultiplier_PlayerHitPlayer
+  %YinYangDmgMultiplier_MonsterHitPlayer | 1.25
+  %YinYangDmgMultiplier_PlayerHitMonster
+  &YinYangDmgMultiplier_MonsterHitMonster
+  WukongResID
+  EnableVigourUnitDispItem | 4091
+  (PausedCameraShakeContinueRequireRestTime
+  PillarFormStateBuff
+  PillarFormTerminatorBuff
+  -CanTriggerDeadAutoSwitch2PhysicMInQualityType
+  DeadAutoSwitch2PhysicThresholds
+  FoxTransResID
+  "PlayerAutoLockInputDegreeThreshold
+  DaShengHeadEquipID | 12001
+  FoxTransQuestItemID | 2403
+  "PigsyStory_PlayerOverDistInterrupt | 1000
+  PigsyStory_ListenNextStoryDist | 2000
+  %SummonNavProtectDistLimit_ReverseCalc | 1500
+  BPAnimal_MaxNum
+  BPAnimal_DestroyDist | 10000
+  YJBreakImmueStiffDuration | 3800
+  #BossRushIterationsLevelDesiredHPMax | 1446
+  BossRushTimeOutSound | EVT_ui_bossrush_timeout
+  BossRushDefeatedSound | EVT_ui_bossrush_fail
+######## NoneRuntime/FUStGlobalConfigDesc-DA.data
+  UIConfigDataAsset | OBGWFallDyingConfigDataAsset'/Game/00Main/Design/Config/DA_UIConfig.DA_UIConfig'
+  HatredLeaveTime
+  LocalizationConfigDataAsset | cBGWFallDyingConfigDataAsset'/Game/00Main/Design/Config/DA_LocalizationConfig.DA_LocalizationConfig'
+  HatredConfigDataAsset | ZBGWHatredConfigDataAsset'/Game/00Main/Design/Blueprints/BP_Hatred_Config.BP_Hatred_Config'
+  FallDyingConfigDataAsset | cBGWFallDyingConfigDataAsset'/Game/00Main/Design/Blueprints/BP_FallDying_Config.BP_FallDying_Config'
+  EquipPreviewConfigDataAsset | gBGWFallDyingConfigDataAsset'/Game/00Main/Design/Blueprints/BP_EquipPreviewConfig.BP_EquipPreviewConfig'
+  TransPreviewConfigDataAsset | jBGWTransPreviewConfigDataAsset'/Game/00Main/Design/Blueprints/DA_TransPreviewConfig.DA_TransPreviewConfig'
+  BHLItemTmpDataAsset | _BGWFallDyingConfigDataAsset'/Game/00Main/Design/Blueprints/BP_BHLItem_Config.BP_BHLItem_Config'
+  MPCStickProg | wUMaterialParameterCollection'/Game/00MainHZ/UIDev/HUD/StateBar/PlayerStyle/MPC_HUDStickLevelProg.MPC_HUDStickLevelProg'
+  #MaterialLayerParamGlobalConfigAsset | BGWDataAsset_MaterialLayerParamGlobalConfig'/Game/00MainHZ/Characters/Wukong/EnvInteractive/DA_MaterialLayerGlobalConfig.DA_MaterialLayerGlobalConfig'
+  ABSPosToUVConfig | _BGWDataAsset_ABSPosToUVConfig'/Game/00Main/Design/Config/DA_UIABSPosToUVCfg.DA_UIABSPosToUVCfg'
+  UnitBarConfig | PBGWDataAsset_UnitBarConfig'/Game/TestMaps/Snooptest/UnitBarConfig.UnitBarConfig'
+  MapConfigDataAsset | MBGWMapUIConfigDataAsset'/Game/00Main/Design/Config/DA_MapConfig.DA_MapConfig'
+  SeqLevelLoadRelationInfo | iBGWDataAsset_SeqLevelLoadRelationInfo'/Game/00Main/DataAsset/DA_SeqLevelLoadConfig.DA_SeqLevelLoadConfig'
+  UDOPC_DefaultDBC | qBGWDataAsset_B1DBC'/Game/00Main/DataAsset/UDOPConfig/DBC/DBC_DynamicObstacle_Default.DBC_DynamicObstacle_Default'
+  SplineBirdSpawnConfig | wBGWDataAsset_SplineBirdSpawnConfig'/Game/00Main/DataAsset/SplineBird/DA_SplineBirdSpawnConfig.DA_SplineBirdSpawnConfig'
+  GlobalBeImmobilizedConfig | BGWDataAsset_GlobalBeImmobilizedConfig'/Game/00MainHZ/Characters/Enemy/General/GlobalBeImmobilizedConfig.GlobalBeImmobilizedConfig'
+  BattleFieldPerformanceOptConfig | BGWDataAsset_BattleFieldPerformanceOptConfig'/Game/00Main/DataAsset/Optimization/BattleField/BattleFieldOptimizeConfig.BattleFieldOptimizeConfig'
+  #BulletTrace_BulletSkillIDConfigPath | xBGWDataAsset_TamerAndBulletSkillIDConfig'/Game/3rd/QATest/DA_TamerAndBulletSkillIDConfig.DA_TamerAndBulletSkillIDConfig'
+  "NiagaraPerformance_TamerListDAPath | LBGWDataAsset_TamerListConfig'/Game/3rd/QATest/DA_QATamerList.DA_QATamerList'
+  %NiagaraPerformance_BlackSkillIDDaPath | iBGWDataAsset_SkillIDBlackListConfig'/Game/3rd/QATest/DA_SkillIDBlackListConfig.DA_SkillIDBlackListConfig'
+  FrozenAccMatCurve | aCurveFloat'/Game/00Main/VFX/Common/Niagara/Buff/AnimCurves/C_debuff_IceAmount.C_debuff_IceAmount'
+  UnitPreload_Outlaws | ZBGWDataAsset_PreloadOutlaws'/Game/00Main/PreloadDataAsset/Preload_Outlaws.Preload_Outlaws'

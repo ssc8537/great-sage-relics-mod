@@ -1,0 +1,205 @@
+######## 00Main/PBTable/Runtime/ShopDesc.data  records=4 bytes=136
+  ----
+     f1   w0 1101
+     f2   w2 '250307，250309，250310'
+     f3   w2 '250315'
+     f4   w2 '250311'
+     f5   w2 '250317'
+  ----
+     f1   w0 2503
+     f2   w2 '250320，250321，250322'
+     f3   w2 '250323'
+     f4   w2 '250324'
+     f5   w2 '250325'
+  ----
+     f1   w0 3100
+     f4   w2 '301491'
+     f5   w2 '301491'
+  ----
+     f1   w0 3103
+######## 00Main/PBTable/Runtime/ShopItemGroupDesc.data  records=193 bytes=2159
+  ----
+     f1   w0 1001
+     f2   w0 100101
+     f3   w0 1
+  ----
+     f1   w0 1001
+     f2   w0 100102
+     f3   w0 1
+  ----
+     f1   w0 1001
+     f2   w0 100103
+     f3   w0 1
+  ----
+     f1   w0 1001
+     f2   w0 100104
+     f3   w0 1
+######## 00Main/PBTable/Runtime/ShopItemDesc.data  records=151 bytes=3520
+  ----
+     f1   w0 100101
+     f2   w0 10401
+     f3   w0 93
+     f4   w2 08ee1e1004
+     f5   w0 1
+     f8   w0 1000
+     f10  w0 1
+  ----
+     f1   w0 100102
+     f2   w0 10402
+     f3   w0 94
+     f4   w2 08ee1e1005
+     f5   w0 1
+     f8   w0 1200
+     f10  w0 1
+  ----
+     f1   w0 100103
+     f2   w0 10403
+     f3   w0 95
+     f4   w2 08ee1e1001
+     f5   w0 1
+     f8   w0 500
+     f10  w0 1
+  ----
+     f1   w0 100104
+     f2   w0 10404
+     f3   w0 96
+     f4   w2 08ee1e1002
+     f5   w0 1
+     f8   w0 640
+     f10  w0 1
+######## 00Main/PBTable/Runtime/ShopRefreshDesc.data  records=52 bytes=682
+  ----
+     f1   w0 2001
+     f2   w0 2000
+     f3   w0 1001
+  ----
+     f1   w0 2002
+     f2   w0 2000
+     f3   w0 1002
+     f4   w0 1
+  ----
+     f1   w0 2003
+     f2   w0 2000
+     f3   w0 2001
+     f4   w0 1
+  ----
+     f1   w0 2004
+     f2   w0 2000
+     f3   w0 2002
+     f4   w0 1
+######## 00Main/PBTable/NoneRuntime/FUStDropItemDesc.data  records=3 bytes=343
+  ----
+     f1   w0 31
+     f2   w2 '的史诗冰箱'
+     f3   w2 '/Game/00MainHZ/Characters/Nianhui2019/DianBingXiang/DropItem_BingXiang.DropItem_BingXiang_C'
+     f4   w0 3
+  ----
+     f1   w0 37
+     f2   w2 '的王者电暖器'
+     f3   w2 '/Game/00MainHZ/Characters/Nianhui2019/YouDeng/DropItem_YouDeng.DropItem_YouDeng_C'
+     f4   w0 4
+  ----
+     f1   w0 33
+     f2   w2 '的至尊电饭煲'
+     f3   w2 '/Game/00MainHZ/Characters/Nianhui2019/DianFanBao/DropItem_DianFanBao.DropItem_DianFanBao_C'
+     f4   w0 5
+######## 00Main/PBTable/Runtime/UnitDropRuleDesc.data  records=66 bytes=1255
+  ----
+     f1   w0 1000
+     f4   w2 08bb1710e907
+     f4   w2 08b91710ee07
+     f4   w2 08ba1710ed07
+  ----
+     f1   w0 1001
+     f4   w2 08b91710f007
+  ----
+     f1   w0 1002
+     f4   w2 08ba1710f007
+  ----
+     f1   w0 1003
+     f4   w2 08bb1710ed07
+######## 00Main/PBTable/Runtime/CommDropRuleDesc.data  records=922 bytes=23572
+  ----
+     f1   w0 1000
+     f4   w2 ''
+     f10  w0 10000
+  ----
+     f1   w0 1001
+     f4   w2 ''
+     f10  w0 10000
+  ----
+     f1   w0 1002
+     f4   w2 ''
+     f10  w0 10000
+  ----
+     f1   w0 1003
+     f4   w2 ''
+     f10  w0 10000
+######## 00Main/PBTable/Runtime/RoleDataConfigDesc.data  records=3851 bytes=109493
+  ----
+     f1   w0 1
+     f2   w0 1
+     f4   w0 1
+     f6   w2 '黑风山前期'
+     f7   w0 300
+  ----
+     f1   w0 1
+     f2   w0 5
+     f3   w0 15005
+     f4   w0 1
+     f5   w0 1
+     f6   w2 '黑风山前期'
+     f7   w0 300
+  ----
+     f1   w0 1
+     f2   w0 5
+     f3   w0 10202
+     f4   w0 1
+     f5   w0 1
+     f6   w2 '黑风山前期'
+     f7   w0 300
+  ----
+     f1   w0 1
+     f2   w0 5
+     f3   w0 10203
+     f4   w0 1
+     f5   w0 1
+     f6   w2 '黑风山前期'
+     f7   w0 300
+######## 00Main/PBTable/Runtime/MapAreaConfigDesc.data  records=478 bytes=16161
+  ----
+     f1   w0 1001
+     f2   w0 10
+     f3   w0 1
+     f4   w2 '黑风山门'
+     f7   w0 1
+     f11  w0 101
+     f12  w0 1
+     f13  w0 1001
+  ----
+     f1   w0 1002
+     f2   w0 10
+     f3   w0 2
+     f4   w2 '苍狼林入口'
+     f7   w0 1
+     f11  w0 101
+     f12  w0 1
+     f13  w0 1001
+  ----
+     f1   w0 1003
+     f2   w0 10
+     f3   w0 3
+     f4   w2 '观音禅院前院'
+     f7   w0 1
+     f11  w0 101
+     f12  w0 1
+     f13  w0 1001
+  ----
+     f1   w0 1004
+     f2   w0 10
+     f3   w0 4
+     f4   w2 '翠竹林入口'
+     f7   w0 1
+     f11  w0 101
+     f12  w0 1
+     f13  w0 1001

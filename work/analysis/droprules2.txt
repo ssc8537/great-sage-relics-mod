@@ -1,0 +1,88 @@
+======= key 1030
+    f1   varint 1030
+    f4   str ''
+    f10  varint 10000
+    f13  msg
+      f1   varint 4096
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+======= key 3001
+    f1   varint 3001
+    f4   str ''
+    f10  varint 10000
+======= key 3003
+    f1   varint 3003
+    f4   str ''
+    f10  varint 10000
+    f13  msg
+      f1   varint 4051
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+======= key 9901
+    f1   varint 9901
+    f4   str ''
+    f5   varint 1
+    f6   varint 990
+    f7   varint 1641
+    f8   msg
+      f1   varint 3902
+      f2   varint 1
+    f10  varint 10000
+    f13  msg
+      f1   varint 4091
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f14  varint 1
+    f15  varint 1
+    f16  varint 8
+======= key 9906
+    f1   varint 9906
+    f4   str ''
+    f5   varint 1
+    f6   varint 5153
+    f7   varint 6998
+    f10  varint 10000
+    f13  msg
+      f1   varint 4096
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f13  msg
+      f1   varint 5302
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+    f15  varint 6
+    f16  varint 8
+======= key 10101
+    f1   varint 10101
+    f4   str ''
+    f8   msg
+      f1   varint 3901
+      f2   varint 1
+    f9   msg
+      f1   varint 1002
+      f3   varint 1200
+    f14  varint 1
+======= key 10105
+    f1   varint 10105
+    f4   str ''
+    f10  varint 10000
+    f13  msg
+      f1   varint 4096
+      f2   varint 1
+      f3   varint 1
+      f4   varint 10000
+======= key 91000
+    f1   varint 91000
+    f4   str ''
+    f8   msg
+      f1   varint 1998
+      f2   varint 1
+    f9   msg
+      f1   varint 1002
+      f3   varint 99
+    f14  varint 17

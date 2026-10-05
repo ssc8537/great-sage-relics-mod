@@ -1,0 +1,18 @@
+00Main/PBTable/Runtime/CommDropRuleDesc.data records 922 key range 1000 9939005
+---- key 1000
+    f1   w0 1000
+    f4   w2 ''
+    f10  w0 10000
+---- key 1001
+    f1   w0 1001
+    f4   w2 ''
+    f10  w0 10000
+00Main/PBTable/Runtime/UnitDropRuleDesc.data records 66 key range 1000 4006
+---- key 1000
+    f1   w0 1000
+    f4   w2 08bb1710e907
+    f4   w2 08b91710ee07
+    f4   w2 08ba1710ed07
+---- key 1001
+    f1   w0 1001
+    f4   w2 08b91710f007

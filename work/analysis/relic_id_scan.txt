@@ -1,0 +1,2 @@
+00Main/PBTable/Runtime/ItemDesc.data : 6/952 records, ids=[4091, 4092, 4093, 4094, 4095, 4096]
+00Main/PBTable/Runtime/MapAreaConfigDesc.data : 6/478 records, ids=[4091, 4092, 4093, 4094, 4095, 4096]

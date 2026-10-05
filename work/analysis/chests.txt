@@ -1,0 +1,38 @@
+inter 900101 f2=9001 rule=(None, []) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 900102 f2=9001 rule=(None, []) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 900103 f2=9001 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_open_idle.AS_box_08_open_idle'", "AnimSequence'/Game/00Main/Anim
+inter 900301 f2=9003 rule=(None, []) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 900302 f2=9003 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_open_idle.AS_box_08_open_idle'", "AnimSequence'/Game/00Main/Anim
+inter 900601 f2=9006 rule=(None, []) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 900602 f2=9006 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_open_idle.AS_box_08_open_idle'"]
+inter 902701 f2=9027 rule=(None, []) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 902702 f2=9027 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_open_idle.AS_box_08_open_idle'"]
+inter 900801 f2=9008 rule=(None, []) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 900104 f2=9001 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_idle_invisible.AS_box_08_idle_invisible'"]
+inter 900802 f2=9008 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_open_idle.AS_box_08_open_idle'"]
+inter 900201 f2=9002 rule=(None, []) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_02_ibm.AS_wukong_open_bo
+inter 900202 f2=9002 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box02/AS_box_02_open_idle.AS_box_02_open_idle'"]
+inter 900401 f2=9004 rule=(None, []) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_02_ibm.AS_wukong_open_bo
+inter 900402 f2=9004 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box02/AS_box_02_open_idle.AS_box_02_open_idle'"]
+inter 900501 f2=9005 rule=(None, []) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_02_ibm.AS_wukong_open_bo
+inter 900502 f2=9005 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box02/AS_box_02_open_idle.AS_box_02_open_idle'"]
+inter 900701 f2=9007 rule=(None, []) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_02_ibm.AS_wukong_open_bo
+inter 900702 f2=9007 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box02/AS_box_02_open_idle.AS_box_02_open_idle'"]
+inter 909801 f2=9098 rule=None anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 904101 f2=9041 rule=None anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_push_coffin_02_ibm.AS_wukong_push
+inter 904102 f2=9041 rule=None anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Coffin/AS_open_coffin_idle_02.AS_open_coffin_idle_02'"]
+inter 702701 f2=7027 rule=None anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 702702 f2=7027 rule=None anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_open_idle.AS_box_08_open_idle'"]
+inter 702801 f2=7028 rule=None anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 702802 f2=7028 rule=None anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_open_idle.AS_box_08_open_idle'"]
+inter 990101 f2=9901 rule=(None, [4091]) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 990102 f2=9901 rule=(None, [4091]) anim=["AnimMontage'/Game/00Main/Animation/TreasureBox/Box08/AM_box_08_idle.AM_box_08_idle'", "AnimSequence'/Game/00Main/Animation/Treas
+inter 703001 f2=7030 rule=None anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 703002 f2=7030 rule=None anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_open_idle.AS_box_08_open_idle'"]
+inter 703101 f2=7031 rule=None anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 703102 f2=7031 rule=None anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_open_idle.AS_box_08_open_idle'"]
+inter 900803 f2=9008 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_idle.AS_box_08_idle'"]
+inter 900105 f2=9001 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/Box01/AS_box_01_idle.AS_box_01_idle'"]
+inter 900106 f2=9001 rule=(None, []) anim=["AnimSequence'/Game/00Main/VFX/DummyEfx/InteractionBridge/CharAndSec/Anim/TreasureBox/AS_wukong_open_box_08_ibm.AS_wukong_open_bo
+inter 900107 f2=9001 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/AS_box_08_open_idle.AS_box_08_open_idle'"]
+inter 101306 f2=1013 rule=(None, []) anim=["AnimSequence'/Game/00Main/Animation/TreasureBox/Box08/Box01/AS_box_01_idle.AS_box_01_idle'"]
